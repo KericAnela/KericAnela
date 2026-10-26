@@ -1,6 +1,9 @@
 ## Hello! :)
 
-As you could read from my short bio, I'm an IT student focused on cybersecurity and QA, as well as being interested in old technology and software.
+I'm an IT student specializing in cybersecurity and quality assurance, with a strong interest in legacy software.
 
 - Languages: Python, C/C++, PowerShell, Bash
+- Web Development: HTML, CSS, JavaScript, SQL
 - Testing and Security: Ghidra, Wireshark, Postman, Nmap
+
+You can connect with me through my [LinkedIn](https://www.linkedin.com/in/anela-keric).
